@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "小さな恋の密室事件",
+  "base_artist": "白坂小梅 (CV: 桜咲千依)",
+  "createdAt": "2026-03-01T02:03:44.171460Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "小さな恋の密室事件",
+      "artist": "白坂小梅(CV:桜咲千依)",
+      "has_synced": true,
+      "path": "select/01_小さな恋の密室事件_白坂小梅(CV_桜咲千依).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "小さな恋の密室事件",
+      "artist": "白坂小梅 （桜咲千依）",
+      "has_synced": true,
+      "path": "select/02_小さな恋の密室事件_白坂小梅_(桜咲千依).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "小さな恋の密室事件 [ORT]",
+      "artist": "白坂小梅(CV:桜咲千依)",
+      "has_synced": false,
+      "path": "select/03_小さな恋の密室事件_[ORT]_白坂小梅(CV_桜咲千依).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "小さな恋の密室事件",
+      "artist": "白坂小梅 (CV桜咲千依)",
+      "has_synced": false,
+      "path": "select/04_小さな恋の密室事件_白坂小梅_(CV桜咲千依).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "小さな恋の密室事件 (オリジナル・カラオケ)",
+      "artist": "白坂小梅 (CV桜咲千依)",
+      "has_synced": false,
+      "path": "select/05_小さな恋の密室事件_(オリジナル・カラオケ)_白坂小梅_(CV桜咲千依).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "小さな恋の密室事件",
+      "artist": "桜咲千依",
+      "has_synced": false,
+      "path": "select/06_小さな恋の密室事件_桜咲千依.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "小さな恋の密室事件",
+      "artist": "白坂小梅",
+      "has_synced": false,
+      "path": "select/07_小さな恋の密室事件_白坂小梅.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "小さな恋の密室事件",
+      "artist": "白坂小梅 (CV: 桜咲千依)",
+      "has_synced": true,
+      "path": "select/08_小さな恋の密室事件_白坂小梅_(CV__桜咲千依).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "小さな恋の密室事件",
+      "artist": "白坂小梅(CV:桜咲千依)",
+      "has_synced": false,
+      "path": "select/pl_01_小さな恋の密室事件_白坂小梅(CV_桜咲千依).txt"
+    }
+  ]
+}
